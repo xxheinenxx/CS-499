@@ -1,4 +1,4 @@
-# Prefessional Self-Assessment
+# Professional Self-Assessment
 ## Overview of Coursework Throughout the Program
 Throughout my enrollment in the computer science program, I was able to obtain a perspective and understanding of the field of
 computer science. Though it was a struggle at times and I wanted to quit, I stuck with it and followed it to the end. This course
